@@ -10,6 +10,7 @@
     <script src="https://your-site-or-cdn.com/fontawesome/v5.15.4/js/all.js" data-auto-a11y="true" ></script>
 </head>
 <body>
+
 <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
@@ -32,7 +33,7 @@
                     <a class="nav-link active" href="#">Fale conosco</a>
                 </li>
                 <li>
-                    <a href=""><button type="button" class="btn btn-info shadow" id="btn1">Login</button></a>
+                    <a href="./includes/formLogin.php"><button type="button" class="btn btn-info shadow" id="btn1">Login</button></a>
                 </li>
                 <li>
                     <a href="./includes/formCad.php"><button type="button" class="btn btn-info shadow" id="btn2">Cadastre-se</button></a>
