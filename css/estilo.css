@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#logo img{
+    margin-left: 25px;
+    width: 180px;
+    height: 80px;
+}
+#navbarNav ul{
+    margin-left: 760px;
+    margin-top: 10px;
+    
+}
+#caogato img{
+    margin-left: 7px;
+    width: 1505px;
+}
+.col-6 img{
+    margin-left: 78px ;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 40px;
+}
+
+#logo2 img{
+    margin-top: 1px;
+    
+    width: 180px;
+    height: 80px;
+}
+
+#img3 ul{
+    list-style: none;
+    margin-left: 270px;
+   
+}
+#text {
+   margin-right: 195px;
+}
+#sobrenos{
+    margin-top: 50px;
+    
+}
+#sobrenos #titulo{
+    
+    color: #EE82EE;
+}
+#titulo2{
+    text-align: center;
+}
