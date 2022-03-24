@@ -11,7 +11,7 @@
     
 
 
-<section class="container d-flex mt-3 justify-content-center ">
+<section class="container d-flex mt-5 justify-content-center ">
 
 
     <div class="card" style="width: 30rem; margin-top: 100px">

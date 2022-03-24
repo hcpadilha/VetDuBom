@@ -135,9 +135,15 @@
     <div class="col-3 rodape mt-4">
     <h5>REDES SOCIAIS</h5>
     <ul class="nav flex-column ">
-    <li class="ms-3"><a class="link-dark" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#whatsapp"/></svg></a></li>
-        <li class="ms-3"><a class="link-dark" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg></a></li>
-        <li class="ms-3"><a class="link-dark" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"/></svg></a></li>
+    <li class="ms-3">
+        <a class="link-dark" href="#"></a>
+    </li>
+    <li class="ms-3">
+        <a class="link-dark" href="#"></a>
+    </li>
+    <li class="ms-3">
+        <a class="link-dark" href="#"></a>
+    </li>
     </ul>
     </div>
 
