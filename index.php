@@ -44,7 +44,8 @@
     </nav>
 </header>
 <main>
-    
+    <div>
+    </div>
     <div class="" id="caogato"> 
         <img id="img1" src="img/cao e gato.jpg" alt="">
 
